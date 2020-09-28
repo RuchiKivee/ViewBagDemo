@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewBagDemo", "ViewBagDemo.csproj", "{5AACA3A7-92E0-48BB-87ED-78352B024A6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AACA3A7-92E0-48BB-87ED-78352B024A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AACA3A7-92E0-48BB-87ED-78352B024A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AACA3A7-92E0-48BB-87ED-78352B024A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AACA3A7-92E0-48BB-87ED-78352B024A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5460535D-F3E0-4C37-A31A-C3F7AA101F87}
+	EndGlobalSection
+EndGlobal
